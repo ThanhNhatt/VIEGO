@@ -445,9 +445,10 @@ width:190px;
                     margin:0 auto;
                     border-radius: 0px;
                     width: 350px;
-                    height: 495px;
+                    height: 510px;
                     font-family: Calibri;
                     box-shadow: 1px 10px 10px rgba(0,0,0,0.3);
+                    padding-bottom: 30px;
 
                     }
                     #container-dattour{
